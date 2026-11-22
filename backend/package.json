@@ -82,7 +82,7 @@
     "concurrently": "8.2.2",
     "openapi3-ts": "2.0.2",
     "oxlint": "1.88.0",
-    "oxlint-tsgolint": "7.0.2004",
+    "oxlint-tsgolint": "7.0.2007",
     "readline-sync": "1.4.10",
     "supertest": "7.1.4",
     "testcontainers": "11.11.0",
